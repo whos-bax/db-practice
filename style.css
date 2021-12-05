@@ -16,7 +16,6 @@ body {
   background-size: cover;
 }
 
-
 .userInfo {
   width: 100%;
   display: flex;
@@ -87,7 +86,6 @@ body {
   border: 1px solid;
   background: #66b4ff;
   color: white;
-  margin-right: 0.5em;
 }
 #delete-btn {
   border-radius: 5px;
@@ -95,10 +93,10 @@ body {
   border: 1px solid;
   background: #fa1100;
   color: white;
-  width: 50%;
-  margin-left: 0.5em;
 }
-
+#orderList {
+  visibility: hidden;
+}
 label {
   margin: 0.5em auto;
   font-weight: 600;

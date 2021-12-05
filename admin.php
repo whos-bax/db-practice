@@ -95,7 +95,7 @@
                             <th>상품명</th>
                             <th>재고량</th>
                             <th>가격</th>
-                            <th>수정</th>
+                            <th>담기</th>
                             <th>삭제</th>
                         </tr>
                     </thead>
